@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+E:\c++\GUI\projects\gui car rental\sample2\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+E:\c++\GUI\projects\gui car rental\sample2\MyForm1.cpp(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+E:\c++\GUI\projects\gui car rental\sample2\MyForm1.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  sample2.vcxproj -> E:\c++\GUI\projects\gui car rental\sample2\x64\Debug\sample2.exe

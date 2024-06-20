@@ -1,0 +1,33 @@
+﻿  MyForm.cpp
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(23,10): error C2686: cannot overload static and non-static member functions with the same parameter types
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(22,17): message : could be 'double sample2::MyForm2::CalculatePayment(System::String ^,System::String ^,System::String ^,System::String ^)'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(23,10): message : or       'double sample2::MyForm2::CalculatePayment(System::String ^,System::String ^,System::String ^,System::String ^)'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(26,8): error C2535: 'void sample2::MyForm2::UpdateTotalPrice(double)': member function already defined or declared
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(24,8): message : see declaration of 'sample2::MyForm2::UpdateTotalPrice'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,39): error C2065: 'carsTypeBox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,58): error C2065: 'brandbox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,74): error C2065: 'conditionBox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,94): error C2065: 'timeBox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,22): error C2660: 'sample2::MyForm2::CalculatePayment': function does not take 1 arguments
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(22,17): message : see declaration of 'sample2::MyForm2::CalculatePayment'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,22): message : while trying to match the argument list '()'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+E:\c++\GUI\projects\gui car rental\sample2\MyForm1.cpp(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+E:\c++\GUI\projects\gui car rental\sample2\MyForm1.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(23,10): error C2686: cannot overload static and non-static member functions with the same parameter types
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(22,17): message : could be 'double sample2::MyForm2::CalculatePayment(System::String ^,System::String ^,System::String ^,System::String ^)'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(23,10): message : or       'double sample2::MyForm2::CalculatePayment(System::String ^,System::String ^,System::String ^,System::String ^)'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(26,8): error C2535: 'void sample2::MyForm2::UpdateTotalPrice(double)': member function already defined or declared
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(24,8): message : see declaration of 'sample2::MyForm2::UpdateTotalPrice'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,39): error C2065: 'carsTypeBox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,58): error C2065: 'brandbox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,74): error C2065: 'conditionBox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,94): error C2065: 'timeBox': undeclared identifier
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,22): error C2660: 'sample2::MyForm2::CalculatePayment': function does not take 1 arguments
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(22,17): message : see declaration of 'sample2::MyForm2::CalculatePayment'
+E:\c++\GUI\projects\gui car rental\sample2\MyForm2.h(334,22): message : while trying to match the argument list '()'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...

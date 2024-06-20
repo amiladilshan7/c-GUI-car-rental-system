@@ -1,0 +1,6 @@
+E:\c++\GUI\projects\gui car rental\sample2\x64\Debug\sample2.vcxproj.AssemblyReference.cache
+E:\c++\GUI\projects\gui car rental\sample2\x64\Debug\sample2.MyForm.resources
+E:\c++\GUI\projects\gui car rental\sample2\x64\Debug\sample2.MyForm1.resources
+E:\c++\GUI\projects\gui car rental\sample2\x64\Debug\sample2.MyForm2.resources
+E:\c++\GUI\projects\gui car rental\sample2\x64\Debug\sample2.vcxproj.GenerateResource.cache
+E:\c++\GUI\projects\gui car rental\sample2\x64\Debug\sample2.exe
